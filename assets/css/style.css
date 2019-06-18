@@ -51,10 +51,30 @@ body{
     transform: rotateY(180deg);
   } 
   .psychic {
-    background-image: url(../img/2019-06-18.png);
+    background-image: url(../img/psychic.png);
     background-size: cover;
   }
   .crystal {
-    background-image: url(../img/2019-06-18\ \(1\).png);
+    background-image: url(../img/crystal.png);
     background-size: cover;    
+  }
+  .trivia {
+    background-image: url(../img/trivia.png);
+    background-size: cover;   
+  }
+  .note {
+    background-image: url(../img/note.png);
+    background-size: cover;     
+  }
+  .burger {
+    background-image: url(../img/burger.png);
+    background-size: cover;   
+  }
+  .clicky{
+    background-image: url(../img/clicky.png);
+    background-size: cover;  
+  }
+  .book{
+    background-image: url(../img/book.png);
+    background-size: cover;  
   }
